@@ -9,9 +9,10 @@ website:
     right:
       - href: index.qmd
         text: Home      
-      - CV.qmd
+      - href: cv/cv.qmd
+        text: Curriculum Vitae
       - icon: github
-        href: https://github.com/cynthiahqy
+        href: https://github.com/braultg
 
 format:
   html:
