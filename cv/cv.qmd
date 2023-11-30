@@ -5,7 +5,7 @@ format:
     toc: true
   pdf:
     author: "Ghislain Brault-Joubert"
-    #pdf-engine: weasyprint
+    pdf-engine: weasyprint
 css: cv.css
 format-links: [pdf]
 
