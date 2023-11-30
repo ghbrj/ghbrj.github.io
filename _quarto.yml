@@ -12,7 +12,7 @@ website:
       - href: cv/cv.qmd
         text: Curriculum Vitae
       - icon: github
-        href: https://github.com/braultg
+        href: https://github.com/ghbrj
 
 format:
   html:

@@ -1,6 +1,14 @@
 ---
 title: "Curriculum Vitae"
-author: "Ghislain Brault-Joubert"
+format:
+  html:
+    toc: true
+  pdf:
+    author: "Ghislain Brault-Joubert"
+    #pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+
 ---
 
 Ceci est le futur CV de Ghislain.
