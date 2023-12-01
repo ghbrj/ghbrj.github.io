@@ -5,6 +5,7 @@ project:
 website:
   title: "Ghislain Brault-Joubert"
   site-url: https://ghbrj.ca
+  favicon: "./images/39a8754-2.ico"
   navbar:
     right:
       - href: index.qmd
@@ -13,9 +14,13 @@ website:
         text: Curriculum Vitae
       - href: about.qmd
         text: About Me
+      - icon: envelope-at
+        href: mailto://ghislain@ghbrj.ca
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ghbrj
       - icon: github
         href: https://github.com/ghbrj
-
+        
 lang: en
 
 format:

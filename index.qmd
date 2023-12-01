@@ -2,6 +2,8 @@
 title: "Welcome!"
 ---
 
-{{< bi hammer >}}This site is under construction. 
+{{< bi hammer >}} This site is under construction. 
  
+![](./images/cone-orange.jpg)
+
 Come back soon!
