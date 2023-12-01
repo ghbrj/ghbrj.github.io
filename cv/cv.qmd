@@ -11,4 +11,4 @@ format-links: [pdf]
 
 ---
 
-Ceci est le futur CV de Ghislain.
+This is where you will find my CV.

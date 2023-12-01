@@ -2,22 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This site is under construction.\nCome back soon!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About Me"
   },
   {
     "objectID": "cv/cv.html",
     "href": "cv/cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Ceci est le futur CV de Ghislain."
+    "text": "This is where you will find my CV."
   }
 ]
