@@ -3,7 +3,7 @@ title: "Ghislain Brault-Joubert"
 image: ./images/gbj-bw.jpg
 about:
   template: broadside
-  image-width: 10em
+  image-width: 5em
   links:
     - icon: envelope-at
       href: mailto://ghislain@ghbrj.ca
@@ -14,4 +14,8 @@ about:
 ---
 
 Come back to learn more about me!
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat, erat sit amet ultricies fermentum, magna leo scelerisque mi, iaculis pulvinar justo lacus blandit eros. Nunc in posuere dolor, sed viverra enim. Praesent vitae ligula ac lectus accumsan ultricies. Vestibulum viverra dui et ipsum malesuada, a viverra urna imperdiet. Integer pulvinar purus sed risus molestie aliquet. Morbi ut nulla eget lacus sollicitudin placerat aliquam non lacus. Integer aliquet pretium enim, eget dictum mi placerat vel. Nulla efficitur justo in nulla ultrices, a varius lorem tristique. Aliquam erat volutpat. Suspendisse nec quam dignissim, faucibus enim vel, pretium erat. Curabitur pellentesque odio quis rhoncus faucibus. Nunc luctus neque ac leo suscipit, eu euismod nunc rutrum. Cras tellus nisl, ornare in metus ac, rhoncus pharetra purus. Morbi at lacus vel nibh porta iaculis. Aenean eleifend condimentum justo, non maximus lectus sagittis non. Phasellus lacinia nulla sit amet libero euismod viverra.
+
+Curabitur ullamcorper lacus sit amet dui aliquet, a viverra neque dignissim. Integer fringilla massa ex, ac laoreet eros vulputate in. Curabitur non nibh in diam aliquam ornare. Curabitur volutpat eros ipsum, eu vehicula massa tincidunt ornare. Sed condimentum malesuada eros quis condimentum. Vestibulum erat turpis, mattis ut dapibus ac, tincidunt euismod odio. Aliquam lorem urna, congue id diam eget, vehicula gravida purus. Aliquam vitae iaculis sem. Nunc mollis metus massa, auctor interdum ligula tristique ac. In condimentum suscipit justo sed laoreet. Nulla magna ex, tincidunt vel odio sed, porta pulvinar lectus. Cras vitae imperdiet dui, eget dapibus orci. Suspendisse ullamcorper, nunc ut tincidunt luctus, libero dui volutpat risus, in tristique nunc mauris sit amet magna. 
 
