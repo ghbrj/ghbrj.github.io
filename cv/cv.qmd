@@ -3,6 +3,8 @@ title: "Curriculum Vitae"
 format:
   html:
     toc: true
+    page-layout: full
+    max-width: 1800px  
   pdf:
     author: "Ghislain Brault-Joubert"
     pdf-engine: weasyprint
@@ -16,37 +18,90 @@ ghislain@ghbrj.ca
 :::
   
 ## Professional Summary
-  
+
+2-3 sentences that include professional experience, top skills and strengths as they relate to what I'm looking for in my next role.
   
 ## Experience 
-  
-**job1** <br> *city1* [*date1 --- date2*]{.dateformat}
+
+### Co-operators General Insurance Co. | 9+ years
+
+#### Sr. Manager[^1], Claims Analytics
+*Montreal, QC* [*January 2020 --- Present*]{.dateformat}
+
+-   **Claims Business partners needing data & Analytics solutions to drive better decision-making**
+-   Business Problems ranging from workforce management, claim segmentation & assignments, quality assurance & risk controls, management of vendors and business process improvement
+-   Claims function is ~$2B outflow every year, about 1600 employees regrouped under 8-10 Assistant Vice-presidents (AVPs) having similar but often competing needs
+-   Acted as Product Owner, ...
+-   ***Skills***: *Strategic Planning | Tactical Planning | Project/Product Management | Problem Definition | Solution Design | Persuasiave Communication | Innovative Thinking*
+
+::: {}
+-   **Data & Analytics professionals needing strong leadership and a supportive environment to thrive**
+-   b
+-   c
+-   ***Skills***: **
+:::
+
+#### Actuarial Manager[^2] & Expert
+*Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
 
 -   a
 -   b
--   c
+- **Skills**: 
 
-**job2** <br> *city1* [*date1 --- date2*]{.dateformat}
+### Intact Financial Corp. & AXA Canada | ~ 5 years
 
--   a
--   b
--   c
+#### Actuarial Consultant
+*Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
+
+-   Led Commercial Lines pricing mandates
+
+## Skills & Knowledge
+
+**Business** a | b | c
+
+**Technology** d | e | f
+
+
+## Professional Designation
+
+- Fellow, Casualty Actuarial Society (FCAS) [*May 2012 --- Present*]{.dateformat}
+- Fellow, Canadian Institute of Actuaries (FCIA) [*Expired | November 2012 --- September 2022*]{.dateformat}
+
 
 ## Education
 
 **education1** <br> *city1* [*date1 --- date2*]{.dateformat}
 
--   a
--   b
--   c
+- a
+- b
+- c
 
 **education2** <br> *city1* [*date1 --- date2*]{.dateformat}
 
--   a
--   b
--   c
+- a
+- b
+- c
+
+## Volunteer Experience
+
+- a
+- b
+
+## Core Values
+
+Curiosity | Humility | Authenticity | Integrity | Continuous Learning
+
+## Top Strengths
+
+Ideation | Adaptability | Strategic | Individualization | Learner *(From StrengthFinder 2.0)*
+
+## Languages 
+
+French (Native) | English (Full professional proficiency) | German (Elementary) | Spanish (Want to learn)
 
 
+[^1]: As Sr. Manager, I supervised a mix of managers and analysts & consultants (respectively junior and senior individual contributors)
+[^2]: As Manager, I supervised directly analysts & consultants
 
 ::: {.print-only}
 ## References
