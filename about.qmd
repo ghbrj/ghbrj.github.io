@@ -3,7 +3,6 @@ title: "Ghislain Brault-Joubert"
 image: ./images/gbj-bw.jpg
 about:
   template: trestles
-  image-width: 4em
   links:
     - icon: envelope-at
       href: mailto://ghislain@ghbrj.ca
