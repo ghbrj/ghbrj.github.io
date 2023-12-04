@@ -3,14 +3,13 @@
 
 /* all formats */
 
-.cvdate {
+.dateformat {
   float: right;
   font-style: italic
 }
 
 .print-only {
   display: none;
-  /*color: aquamarine;*/
 }
 
 /* adapt stylesheet for print
@@ -24,14 +23,16 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
 @media print {
   @page {
       size: letter portrait;
-      counter-increment: page;
+      /*counter-increment: page;
       @bottom-center {
         content: counter(page)
-      }
+      }*/
   }
+  
   .no-print {
       display: none;
   }
+  
   .print-only {
       display: block;
   }
@@ -46,11 +47,13 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   }
 
   header {
-    margin-block-end: 5em;
+    margin-block-end: 4em;
   }
+  
   header h1.title {
       display: none;
   }
+  
   header .author {
     font-size: 2em;
     font-weight: 900;
@@ -62,15 +65,13 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   }
 
   h2 {
-    font-weight: 900;
+    font-weight: 800;
     text-transform: uppercase;
-    /* color: blueviolet; */
   }
 
   h3 {
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
-    /* color: green; */
   }
 
   p {
@@ -83,7 +84,7 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
 
   a {
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 600;
     color: #36a7e9;
   }
 }

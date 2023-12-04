@@ -1,9 +1,17 @@
 ---
-title: "About Me"
+title: "Ghislain Brault-Joubert"
+image: ./images/gbj-bw.jpg
+about:
+  template: broadside
+  image-width: 10em
+  links:
+    - icon: envelope-at
+      href: mailto://ghislain@ghbrj.ca
+    - icon: linkedin
+      href: https://www.linkedin.com/in/ghbrj
+    - icon: github
+      href: https://github.com/ghbrj
 ---
 
-::: {layout-ncol=2}
-![](./images/gbj-bw.jpg){width=50, fig-align="left"}
-
 Come back to learn more about me!
-:::
+

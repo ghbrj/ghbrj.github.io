@@ -9,7 +9,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Ghislain Brault-Joubert",
     "section": "",
     "text": "Come back to learn more about me!"
   },
@@ -18,6 +18,34 @@
     "href": "cv/cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "This is where you will find my CV."
+    "text": "ghislain@ghbrj.ca"
+  },
+  {
+    "objectID": "cv/cv.html#professional-summary",
+    "href": "cv/cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "Professional Summary",
+    "text": "Professional Summary"
+  },
+  {
+    "objectID": "cv/cv.html#experience",
+    "href": "cv/cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\njob1  city1 date1 — date2\n\na\nb\nc\n\njob2  city1 date1 — date2\n\na\nb\nc"
+  },
+  {
+    "objectID": "cv/cv.html#education",
+    "href": "cv/cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\neducation1  city1 date1 — date2\n\na\nb\nc\n\neducation2  city1 date1 — date2\n\na\nb\nc"
+  },
+  {
+    "objectID": "cv/cv.html#references",
+    "href": "cv/cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
   }
 ]

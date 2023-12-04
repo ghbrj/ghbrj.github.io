@@ -11,4 +11,46 @@ format-links: [pdf]
 
 ---
 
-This is where you will find my CV.
+::: {.print-only .contact-block}
+ghislain@ghbrj.ca
+:::
+
+## Professional Summary
+
+
+## Experience 
+
+**job1** <br> *city1* [*date1 --- date2*]{.dateformat}
+
+-   a
+-   b
+-   c
+
+**job2** <br> *city1* [*date1 --- date2*]{.dateformat}
+
+-   a
+-   b
+-   c
+
+## Education
+
+**education1** <br> *city1* [*date1 --- date2*]{.dateformat}
+
+-   a
+-   b
+-   c
+
+**education2** <br> *city1* [*date1 --- date2*]{.dateformat}
+
+-   a
+-   b
+-   c
+
+
+::: {.print-only}
+
+## References
+
+Available upon request
+
+:::
