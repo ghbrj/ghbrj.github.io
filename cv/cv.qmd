@@ -11,5 +11,5 @@ format-links: [pdf]
 
 ---
 
-This is where you will find my CV.
+This is where you will find my cv.
 

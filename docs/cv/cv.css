@@ -47,7 +47,7 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   }
 
   header {
-    margin-block-end: 5em;
+    margin-block-end: 4em;
   }
   
   header h1.title {
@@ -65,15 +65,13 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   }
 
   h2 {
-    font-weight: 900;
+    font-weight: 800;
     text-transform: uppercase;
-    /* color: blueviolet; */
   }
 
   h3 {
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
-    /* color: green; */
   }
 
   p {
@@ -86,7 +84,7 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
 
   a {
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 600;
     color: #36a7e9;
   }
 }
