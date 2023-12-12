@@ -5,6 +5,7 @@ format:
     toc: true
     page-layout: full
     max-width: 1800px  
+    fontsize: 0.9em
   pdf:
     author: "Ghislain Brault-Joubert"
     pdf-engine: weasyprint
@@ -14,96 +15,100 @@ format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
-ghislain@ghbrj.ca
+ghislain@ghbrj.ca | Montreal, QC | 514-726-0359
 :::
   
-## Professional Summary
+## Summary
 
 2-3 sentences that include professional experience, top skills and strengths as they relate to what I'm looking for in my next role.
   
 ## Experience 
 
-### Co-operators General Insurance Co. | 9+ years
+### Sr. Manager[^1], Claims Analytics
+*Co-operators General Insurance Co. | Montreal, QC* [*January 2020 --- Present*]{.dateformat}
 
-#### Sr. Manager[^1], Claims Analytics
-*Montreal, QC* [*January 2020 --- Present*]{.dateformat}
+**Claims Business partners needing Data & Analytics solutions to drive better decision-making**
 
--   **Claims Business partners needing data & Analytics solutions to drive better decision-making**
--   Business Problems ranging from workforce management, claim segmentation & assignments, quality assurance & risk controls, management of vendors and business process improvement
--   Claims function is ~$2B outflow every year, about 1600 employees regrouped under 8-10 Assistant Vice-presidents (AVPs) having similar but often competing needs
--   Acted as Product Owner, ...
--   ***Skills***: *Strategic Planning | Tactical Planning | Project/Product Management | Problem Definition | Solution Design | Persuasiave Communication | Innovative Thinking*
+Dealt with business problems ranging from workforce management, work (claim) segmentation & assignment, quality assurance & risk control, vendor management and process improvement
 
-::: {}
--   **Data & Analytics professionals needing strong leadership and a supportive environment to thrive**
--   b
--   c
--   ***Skills***: **
-:::
+Settling claims is the insurance promise made to ~950K policyholders; ~$2B average payout per year. Its workforce is ~1600 employees reporting to 8-10 Assistant Vice-presidents (AVPs) having similar but often unique and competing needs. Data & Analytics maturity is low and developing  
 
-#### Actuarial Manager[^2] & Expert
-*Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
+Acted as Product Owner; Facilitated the elicitation of business problems & decisions with senior leaders where data & insights are useful; helped them define priorities and develop actionable plans; drafted business cases, influenced initiation and planning of foundational projects & products; supported execution and delivery of value by articulating needs to data & analytics team members and validated end products
 
--   a
--   b
-- **Skills**: 
+***Skills***: *Strategic Planning | Tactical Planning | Project/Product Management | Problem Definition | Solution Design | Persuasive Communication | Innovative Thinking*
 
-### Intact Financial Corp. & AXA Canada | ~ 5 years
 
-#### Actuarial Consultant
-*Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
+**Data & Analytics professionals needing strong leadership and a supportive environment to thrive**
 
--   Led Commercial Lines pricing mandates
+There was a need to build and consolidate teams of data & analytics professionals, raise and maintain team/individual performance & engagement while ensuring the technical work meets high quality standards
+
+This was because of a rapid and significant increase in demand and rising expectations in Claims for decision-making leveraging data & analytics solutions. It was also ultimately about promoting the professional and personal well being of a group of ~ 15-30 team members directly or indirectly 
+
+Defined team mandates, roles & responsibilities and performance expectations; Influenced AVP with re-structure scenarios; Hired and on-boarded about ~15 data professionals; Evaluated & rewarded achievement of goals; Defined and negotiated operating and service models with Claims and other partners; Defined related workflows and implemented agile delivery principles; Defined and implemented change management and communication plans; Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development
+
+***Skills***: *People Leadership | Performance Management | Recruitment | Negotiation | Change Management | Technical Supervision*
+
+### Actuarial Manager[^2] & Expert {style="page-break-before: always"}
+*Co-operators General Insurance Co. | Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
+
+Problem was a
+
+Important because of b
+
+I did C
+
+**Skills**: 
+
+### Actuarial Consultant
+*Intact Financial Corp. & AXA Canada | Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
+
+Led Commercial Lines pricing assignments in Western Canada, including automobile rate filings, small businesses, mid-market commercial, large accounts, specialty lines (E&O, D&O), earthquake coverage
 
 ## Skills & Knowledge
 
-**Business** a | b | c
+**Business** Insurance Business | Actuarial Practice | Agile Delivery
 
-**Technology** d | e | f
+**Technology** Atlassian (Jira, Confluence, Bitbucket) | Microsoft 365 (Office, Teams) | R | SQL | Virtual Whiteboard (Miro) | Guidewire Policy Center & Claim Center | Genesys 
 
 
 ## Professional Designation
 
-- Fellow, Casualty Actuarial Society (FCAS) [*May 2012 --- Present*]{.dateformat}
-- Fellow, Canadian Institute of Actuaries (FCIA) [*Expired | November 2012 --- September 2022*]{.dateformat}
+**Fellow, Casualty Actuarial Society (FCAS)** [*May 2012 --- Present*]{.dateformat}
+
+**Fellow, Canadian Institute of Actuaries (FCIA)** [*Expired | November 2012 --- September 2022*]{.dateformat}
 
 
-## Education
+## Education 
 
-**education1** <br> *city1* [*date1 --- date2*]{.dateformat}
+**M.Sc. Microprogram - Business Intelligence Data mining** <br> *HEC Montreal | Montreal, QC* [*2018 --- 2019*]{.dateformat}
 
-- a
-- b
-- c
+**B.Sc. Actuarial Science** <br> *Laval University | Quebec City, QC* [*2004 --- 2007*]{.dateformat}
 
-**education2** <br> *city1* [*date1 --- date2*]{.dateformat}
+## Volunteer and Other Experience
 
-- a
-- b
-- c
+### Member of the Board of Directors
+*Bibliothèque d'Outils La Remise | Montreal, QC* [*October 2017 --- April 2019*]{.dateformat}
 
-## Volunteer Experience
+Montreal's first tool library. Helped the cooperative consolidating and growing its service offering to the members of the local community.
 
-- a
-- b
+### Young Directors Program 2016-2017
+*Institute for governance of private and public organizations (IGOPP) | Montreal, QC* [*Nov 2016 --- May 2017*]{.dateformat}
 
-## Core Values
+## About Me
 
-Curiosity | Humility | Authenticity | Integrity | Continuous Learning
+**Core Values** Curiosity | Humility | Authenticity | Integrity | Continuous Learning
 
-## Top Strengths
+**Top Strengths** Ideation | Adaptability | Strategic | Individualization | Learner *(From StrengthFinder 2.0)*
 
-Ideation | Adaptability | Strategic | Individualization | Learner *(From StrengthFinder 2.0)*
-
-## Languages 
-
-French (Native) | English (Full professional proficiency) | German (Elementary) | Spanish (Want to learn)
+**Languages** French (Native) | English (Full professional proficiency) | German (Elementary) | Spanish (Want to learn)
 
 
-[^1]: As Sr. Manager, I supervised a mix of managers and analysts & consultants (respectively junior and senior individual contributors)
-[^2]: As Manager, I supervised directly analysts & consultants
+[^1]: As Sr. Manager, I supervised managers and data analysts & scientists
+[^2]: As Manager, I supervised analysts & consultants (respectively junior and senior individual contributors)
 
 ::: {.print-only}
 ## References
 Available upon request
 :::
+
+<br><br><br>
