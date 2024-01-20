@@ -15,7 +15,7 @@ website:
       - href: about.qmd
         text: About Me
       - icon: envelope-at
-        href: mailto://ghislain@ghbrj.ca
+        href: mailto://contact+ghislain@ghbrj.ca
       - icon: linkedin
         href: https://www.linkedin.com/in/ghbrj
       - icon: github

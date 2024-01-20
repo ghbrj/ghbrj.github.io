@@ -35,20 +35,23 @@ Settling claims is the insurance promise made to ~950K policyholders; ~$2B avera
 
 Acted as Product Owner; Facilitated the elicitation of business problems & decisions with senior leaders where data & insights are useful; helped them define priorities and develop actionable plans; drafted business cases, influenced initiation and planning of foundational projects & products; supported execution and delivery of value by articulating needs to data & analytics team members and validated end products
 
-***Skills***: *Strategic Planning | Tactical Planning | Project/Product Management | Problem Definition | Solution Design | Persuasive Communication | Innovative Thinking*
-
+***Skills***: *Strategic Planning | Tactical Planning | Problem Definition | Solution Design | Project/Product Management | Persuasive Communication*
 
 **Data & Analytics professionals needing strong leadership and a supportive environment to thrive**
 
-There was a need to build and consolidate teams of data & analytics professionals, raise and maintain team/individual performance & engagement while ensuring the technical work meets high quality standards
+The need was to build and grow a team of data & analytics professionals, raise team/individual performance & engagement while ensuring the work of the team meets business needs and high quality standards
 
-This was because of a rapid and significant increase in demand and rising expectations in Claims for decision-making leveraging data & analytics solutions. It was also ultimately about promoting the professional and personal well being of a group of ~ 15-30 team members directly or indirectly 
+It was important because of a rapid and significant increase in demand and rising expectations from Claims partners for decision-making with data. As well, it was about promoting the professional and personal well being of a group of ~ 15-30 team members directly or indirectly 
 
-Defined team mandates, roles & responsibilities and performance expectations; Influenced AVP with re-structure scenarios; Hired and on-boarded about ~15 data professionals; Evaluated & rewarded achievement of goals; Defined and negotiated operating and service models with Claims and other partners; Defined related workflows and implemented agile delivery principles; Defined and implemented change management and communication plans; Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development
+Defined team mandates, roles & responsibilities and performance expectations; Hired 15+ data professionals; Influenced & implemented two restructures; Evaluated & rewarded achievement of goals; 
+
+Defined and negotiated operating and service models with Claims and other partners; Defined related workflows (intake, prioritization, execution) and implemented agile delivery principles; Built and implemented change management plans; 
+
+Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development
 
 ***Skills***: *People Leadership | Performance Management | Recruitment | Negotiation | Change Management | Technical Supervision*
 
-### Actuarial Manager[^2] & Expert {style="page-break-before: always"}
+### Actuarial Manager[^2] & Expert
 *Co-operators General Insurance Co. | Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
 
 Problem was a
@@ -62,13 +65,13 @@ I did C
 ### Actuarial Consultant
 *Intact Financial Corp. & AXA Canada | Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
 
-Led Commercial Lines pricing assignments in Western Canada, including automobile rate filings, small businesses, mid-market commercial, large accounts, specialty lines (E&O, D&O), earthquake coverage
+Led Commercial Lines pricing assignments in Western Canada; rate indications, segmentations analysis, system implementation. Business lines included commercial automobile rate filings, small businesses, mid-market commercial, large accounts, specialty lines (E&O, D&O), earthquake coverage
 
 ## Skills & Knowledge
 
-**Business** Insurance Business | Actuarial Practice | Agile Delivery
+**Business** Insurance | Claims | Actuarial Practice | Agile Delivery
 
-**Technology** Atlassian (Jira, Confluence, Bitbucket) | Microsoft 365 (Office, Teams) | R | SQL | Virtual Whiteboard (Miro) | Guidewire Policy Center & Claim Center | Genesys 
+**Technology** Atlassian (Jira, Confluence, Bitbucket) | R | SQL | Virtual Whiteboards (Miro, Mural) | Guidewire Policy Center & Claim Center | Genesys 
 
 
 ## Professional Designation
@@ -102,13 +105,12 @@ Montreal's first tool library. Helped the cooperative consolidating and growing 
 
 **Languages** French (Native) | English (Full professional proficiency) | German (Elementary) | Spanish (Want to learn)
 
-
-[^1]: As Sr. Manager, I supervised managers and data analysts & scientists
-[^2]: As Manager, I supervised analysts & consultants (respectively junior and senior individual contributors)
-
 ::: {.print-only}
-## References
-Available upon request
+<br><br>
+References available upon request
 :::
 
-<br><br><br>
+<br><br>
+
+[^1]: As Sr. Manager, I supervised managers and data analysts & scientists
+[^2]: As Manager, I supervised actuaries (individual contributors, junior to senior)
