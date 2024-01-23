@@ -30,6 +30,5 @@ format:
       dark: [litera, theme-dark.scss]
     css: styles.css
     toc: true
-
-
-
+    email-obfuscation: javascript
+    fontsize: 0.95em
