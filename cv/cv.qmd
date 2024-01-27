@@ -11,63 +11,60 @@ format:
     pdf-engine: weasyprint
 css: cv.css
 format-links: [pdf]
-
 ---
 
 ::: {.print-only .contact-block}
-**Analytics Leader & Actuary**<br>
+**Analytics leader & Actuary**<br>
 ghislain@ghbrj.ca | Montreal, QC | 514-726-0359
 :::
   
 ## About Me
 
-Analytics Leader and Actuary. 15+ years of experience in Insurance and the Analytics space.<br>
-Everyday I strive for superior, impactful decision-making with data through my work and teams.
+Everyday I strive for superior, influential decision-making with data through my work and teams.
 
-I help business leaders with useful data products & insights. I grow and lead analytics teams. I provide analytics leadership to influence business 
-strategy, roadmaps and outcomes.
+I engage with business leaders to identify, prioritize business issues and deliver useful data solutions and insights. I grow successful analytics teams 
+that excel at data analysis, visualization and solving business problems. 
+
+My work philosophy is deeply customer and problem-centric: *Imperfect* but *useful* solutions to the *right* problems to advance business objectives.
+
+I would love to continue perfecting my craft as a data analyst and manager by tackling novel, challenging business problems beyond the insurance industry. 
 
 ## Experience 
 
 ### Sr. Manager[^1], Claims Analytics
 *Co-operators General Insurance Co. | Montreal, QC* [*January 2020 --- Present*]{.dateformat}
 
-**Claims Business partners needing Data & Analytics solutions to drive better decision-making**
+The business of settling claims is the promise made to ~950K policyholders when unfortunate events happen, paying out roughly $2B per year. The Claims workforce is ~1600 employees reporting up to 8-10 Assistant Vice-Presidents (AVPs) having competing business needs. Tremendous opportunities to improve client, employee outcomes and reduce costs in an environement where the data maturity is lower but developing. 
 
-Dealt with business problems ranging from *workforce management*, *process improvement* such as work segmentation & assignment, *quality assurance & risk control* and management of *vendor relationships and performance*
+The analytics function needed to grow because of a rapid and significant increase in demand and rising expectations from Claims partners for decision-making with data. While growing, it is important to support the professional and personal wellbeing of a group of now ~30 team members, ensure the work of the team creates value and meets high quality standards.
 
-The business of settling claims is the promise made to ~950K policyholders when things get bad, paying out roughly $2B per year. The claims workforce is ~1600 employees reporting to 8-10 Assistant Vice-Presidents (AVPs) having similar but typically competing needs. Tremendous opportunities to reduce costs in an environement where analytics maturity is lower but developing  
+**Claims Business partners needing analytics solutions to drive better decision-making**
 
-Acted as *Product Owner*; Facilitated the elicitation of business problems & decisions with claims leaders where data & insights are useful; helped them define priorities and develop actionable plans; drafted business cases, influenced initiation and planning of foundational projects & products; supported execution and delivery of value by articulating needs to data & analytics delivery teams and validated end products
+- Acted as a *strategic leader* with business partners to facilitate the elicitation of business problems, identify and prioritize data initiatives and oversee execution by analytics delivery teams.  
 
-***Skills***: *Problem Solving with Data | Strategic & Tactical Planning | Product Management | Persuasive Communication*
+- Dealt with business problems ranging from *workforce management*, *operational performance management*, *process improvement* such as work segmentation & assignment, *quality assurance & risk control* and management of *vendor relationships and performance*.
 
-**Data & Analytics professionals needing strong leadership and a supportive environment to thrive**
+**Analytics professionals needing strong leadership and a supportive environment to thrive**
 
-The need was to build and grow a team of analytics professionals, raise team/individual performance & engagement while ensuring the work of the team meets business needs and high quality standards
+- Acted as *people leader*, defined team mandates, roles & responsibilities and performance expectations; Hired 15+ analytics professionals; Evaluated & rewarded achievement of goals; Influenced & implemented structure and role changes.
 
-Critical because of a rapid and significant increase in demand and rising expectations from Claims partners for decision-making with data. While growing, it was important to ensure the professional and personal wellbeing of the group of ~ 15-30 team members 
+- Acted as *practice leader*, defined and negotiated operating and service models with Claims and other partners; Defined related workflows (intake, prioritization, execution) and integrated more agile delivery principles; Built and implemented change management plans. 
 
-Acted as *people leader*, defined team mandates, roles & responsibilities and performance expectations; Hired 15+ data professionals; Evaluated & rewarded achievement of goals; Influenced & implemented restructures 
+- Acted as *technical supervisor*, provided support and coaching on technical matters; Accompanied team members in their career development.
 
-Acted as *practice leader*, defined and negotiated operating and service models with Claims and other partners; Defined related workflows (intake, prioritization, execution) and implemented agile delivery principles; Built and implemented change management plans; 
+***Skills***: *Problem Solving with Data | Strategic & Tactical Planning | Data Product Management | People Leadership | Performance Management | Negotiation | Change Management*
 
-Acted as *technical supervisor*, provided support and coaching on technical matters; Accompanied team members in their career development
-
-***Skills***: *People Leadership | Performance Management | Recruitment | Negotiation | Change Management | Technical Supervision*
-
+{{< pagebreak >}}
 ### Actuarial Manager[^2] & Expert
 *Co-operators General Insurance Co. | Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
 
-**Driving profitable growth of commercial risks through pricing initiatives**
+**Driving profitable growth of commercial risks through pricing initiatives and a team of actuaries**
 
-Led all aspects of actuarial work for a portfolio of commercial risks worth ~$300M in annual premium. Delivered rate indications, segmentation analyses and related system implementations. Designed and implemented new rating algorithms and a risk selection framework.
+- Led all aspects of actuarial work for a portfolio of commercial risks worth ~$300M in annual premium. Delivered rate indications, segmentation analyses and related system implementations. Designed and implemented new rating algorithms and a risk selection framework.
 
-**Supervising a team of actuaries**
+- Oversaw the professional and personal wellbeing of about 6-8 team members, setting goals & evaluating performance. Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development.
 
-Oversaw the professional and personal wellbeing of about 6-8 team members, setting goals & evaluating performance. Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development 
-
-### Actuarial Consultant
+### Actuarial Consultant 
 *Intact Financial Corp. & AXA Canada | Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
 
 Led Commercial Lines pricing assignments in Western Canada. Business lines included commercial automobile rate filings, small businesses, mid-market commercial, large accounts, specialty lines (E&O, D&O) and earthquake coverage
@@ -76,7 +73,7 @@ Led Commercial Lines pricing assignments in Western Canada. Business lines inclu
 
 **Business** Insurance | Property & Casualty Actuarial Practice | Agile Delivery
 
-**Technology** Atlassian (Jira, Confluence, Bitbucket) | R | SQL | Virtual Whiteboards (Miro, Mural) | Guidewire Policy Center & Claim Center | Genesys 
+**Technology**  R | SQL | Atlassian (Jira, Confluence, Bitbucket) | Virtual Whiteboards (Miro, Mural) | Guidewire Policy Center & Claim Center | Genesys 
 
 
 ## Professional Designation
