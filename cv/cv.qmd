@@ -6,43 +6,47 @@ format:
     page-layout: full
     max-width: 1800px  
     font-size: 0.85em
+    linkcolor: black
   pdf:
     author: "Ghislain Brault-Joubert"
     pdf-engine: weasyprint
+    papersize: letter
+    colorlinks: false
+    margin-top: 10mm
+    margin-bottom: 10mm
 css: cv.css
 format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
-**Analytics leader & Actuary**<br>
+**Analytics professional & Actuary**<br>
 ghislain@ghbrj.ca | Montreal, QC | 514-726-0359
 :::
-  
-## About Me
 
-Everyday I strive for superior, influential decision-making with data through my work and teams.
-
-I engage with business leaders to identify, prioritize business issues and deliver useful data solutions and insights. I grow successful analytics teams 
-that excel at data analysis, visualization and solving business problems. 
+<br> 
+Everyday I strive for superior, influential decision-making with data through my work and teams. I collaborate with business leaders to identify, 
+prioritize issues and deliver useful data solutions and insights. 
 
 My work philosophy is deeply customer and problem-centric: *Imperfect* but *useful* solutions to the *right* problems to advance business objectives.
 
-I would love to continue perfecting my craft as a data analyst and manager by tackling novel, challenging business problems beyond the insurance industry. 
+I would love to perfect my craft as an analytics manager and data analyst by tackling novel, challenging business problems within and beyond the insurance industry. 
 
 ## Experience 
 
 ### Sr. Manager[^1], Claims Analytics
-*Co-operators General Insurance Co. | Montreal, QC* [*January 2020 --- Present*]{.dateformat}
+*[Co-operators General Insurance Co.](https://www.cooperators.ca/) | Montreal, QC* [*January 2020 --- Present*]{.dateformat}
 
-The business of settling claims is the promise made to ~950K policyholders when unfortunate events happen, paying out roughly $2B per year. The Claims workforce is ~1600 employees reporting up to 8-10 Assistant Vice-Presidents (AVPs) having competing business needs. Tremendous opportunities to improve client, employee outcomes and reduce costs in an environement where the data maturity is lower but developing. 
+Settling claims is the promise made to ~1M policyholders when unfortunate events happen. The claims function pays out roughly $2B per year and has a workforce of ~1600 employees reporting up to 8-10 Assistant Vice-Presidents (AVPs). Tremendous opportunities to improve client, employee outcomes and reduce costs in an environement where the data maturity is low but developing.
 
-The analytics function needed to grow because of a rapid and significant increase in demand and rising expectations from Claims partners for decision-making with data. While growing, it is important to support the professional and personal wellbeing of a group of now ~30 team members, ensure the work of the team creates value and meets high quality standards.
+The analytics function within Claims needed to grow because of a rapid, significant increase in demand and expectations from business partners for decision-making with data. In this growth phase, it was important to create and maintain a supportive environment to ensure wellbeing of our team of ~30 professionals while delivering valuable and high quality work.
 
 **Claims Business partners needing analytics solutions to drive better decision-making**
 
 - Acted as a *strategic leader* with business partners to facilitate the elicitation of business problems, identify and prioritize data initiatives and oversee execution by analytics delivery teams.  
 
-- Dealt with business problems ranging from *workforce management*, *operational performance management*, *process improvement* such as work segmentation & assignment, *quality assurance & risk control* and management of *vendor relationships and performance*.
+- Dealt with business problems ranging from *workforce management*, *operational performance management*, *process improvement* such as work segmentation & assignment, *quality assurance & risk control* and management of *vendor relationships and performance*. Through my teams, I solve these problems using data analysis, modeling and visualizations (reports, dashboards). 
+
+***Skills***: *Strategic & Tactical Planning | Problem Solving | Data Analysis | Data Visualization*
 
 **Analytics professionals needing strong leadership and a supportive environment to thrive**
 
@@ -52,11 +56,11 @@ The analytics function needed to grow because of a rapid and significant increas
 
 - Acted as *technical supervisor*, provided support and coaching on technical matters; Accompanied team members in their career development.
 
-***Skills***: *Problem Solving with Data | Strategic & Tactical Planning | Data Product Management | People Leadership | Performance Management | Negotiation | Change Management*
+***Skills***: *People Leadership | Performance Management | Process Improvement | Negotiation | Change Management*
 
 {{< pagebreak >}}
 ### Actuarial Manager[^2] & Expert
-*Co-operators General Insurance Co. | Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
+*[Co-operators General Insurance Co.](https://www.cooperators.ca/) | Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
 
 **Driving profitable growth of commercial risks through pricing initiatives and a team of actuaries**
 
@@ -65,23 +69,17 @@ The analytics function needed to grow because of a rapid and significant increas
 - Oversaw the professional and personal wellbeing of about 6-8 team members, setting goals & evaluating performance. Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development.
 
 ### Actuarial Consultant 
-*Intact Financial Corp. & AXA Canada | Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
+*[Intact Financial Corp.](https://www.intactfc.com/) & AXA Canada | Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
 
 Led Commercial Lines pricing assignments in Western Canada. Business lines included commercial automobile rate filings, small businesses, mid-market commercial, large accounts, specialty lines (E&O, D&O) and earthquake coverage
 
 ## Skills & Knowledge
 
-**Business** Insurance | Property & Casualty Actuarial Practice | Agile Delivery
+**Business** Insurance | Workforce Management | Pricing | Agile & Waterfall Delivery
+
+**Technical** Statistics | Machine Learning | Property & Casualty Actuarial Practice
 
 **Technology**  R | SQL | Atlassian (Jira, Confluence, Bitbucket) | Virtual Whiteboards (Miro, Mural) | Guidewire Policy Center & Claim Center | Genesys 
-
-
-## Professional Designation
-
-**Fellow, Casualty Actuarial Society (FCAS)** [*May 2012 --- Present*]{.dateformat}
-
-**Fellow, Canadian Institute of Actuaries (FCIA)** [*Expired | November 2012 --- September 2022*]{.dateformat}
-
 
 ## Education 
 
@@ -89,19 +87,25 @@ Led Commercial Lines pricing assignments in Western Canada. Business lines inclu
 
 **B.Sc. Actuarial Science** <br> *Laval University | Quebec City, QC* [*2004 --- 2007*]{.dateformat}
 
+## Professional Designation
+
+**Fellow, [Casualty Actuarial Society](https://www.casact.org/) (FCAS)** [*May 2012 --- Present*]{.dateformat}
+
+**Fellow, [Canadian Institute of Actuaries](https://www.cia-ica.ca/) (FCIA)** [*Expired | November 2012 --- September 2022*]{.dateformat}
+
 ## Volunteer and Other Experience
 
-### Member of the Board of Directors
-*Bibliothèque d'Outils La Remise | Montreal, QC* [*October 2017 --- April 2019*]{.dateformat}
+#### Member of the Board of Directors
+*[Bibliothèque d'Outils La Remise](https://laremise.ca/) | Montreal, QC* [*October 2017 --- April 2019*]{.dateformat}
 
 Montreal's first tool library. Helped the cooperative consolidating and growing its service offering to the members of the local community.
 
-### Young Directors Program 2016-2017
-*Institute for governance of private and public organizations (IGOPP) | Montreal, QC* [*Nov 2016 --- May 2017*]{.dateformat}
+#### Young Directors Program 2016-2017
+*[Institute for governance of private and public organizations (IGOPP)](https://igopp.org/en/) | Montreal, QC* [*Nov 2016 --- May 2017*]{.dateformat}
 
 ## More About Me
 
-**Core Values** Curiosity | Humbleness | Authenticity | Courage | Continuous Learning
+**Core Values** Curiosity | Humbleness | Authenticity | Continuous Learning
 
 **Top Strengths** Ideation | Adaptability | Strategic | Individualization | Learner *(From StrengthFinder 2.0)*
 

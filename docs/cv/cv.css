@@ -96,10 +96,12 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   ul li{
     /*font-size: 10pt;*/
   }
-
+  
+  /*
   a {
     text-decoration: none;
     font-weight: 400;
     color: #36a7e9;
   }
+  */
 }
