@@ -5,15 +5,9 @@ format:
     toc: true
     page-layout: full
     max-width: 1800px  
-    font-size: 0.85em
-    linkcolor: black
   pdf:
     author: "Ghislain Brault-Joubert"
     pdf-engine: weasyprint
-    papersize: letter
-    colorlinks: false
-    margin-top: 10mm
-    margin-bottom: 10mm
 css: cv.css
 format-links: [pdf]
 ---
@@ -58,16 +52,16 @@ The analytics function within Claims needed to grow because of a rapid, signific
 
 ***Skills***: *People Leadership | Performance Management | Process Improvement | Negotiation | Change Management*
 
-{{< pagebreak >}}
 ### Actuarial Manager[^2] & Expert
 *[Co-operators General Insurance Co.](https://www.cooperators.ca/) | Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
 
-**Driving profitable growth of commercial risks through pricing initiatives and a team of actuaries**
+**Driving profitable growth of commercial risks through pricing initiatives**
 
 - Led all aspects of actuarial work for a portfolio of commercial risks worth ~$300M in annual premium. Delivered rate indications, segmentation analyses and related system implementations. Designed and implemented new rating algorithms and a risk selection framework.
 
-- Oversaw the professional and personal wellbeing of about 6-8 team members, setting goals & evaluating performance. Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development.
+- Acted as people leader; oversaw the professional and personal wellbeing of about 6-8 team members, set goals & evaluated performance. Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development.
 
+{{< pagebreak >}}
 ### Actuarial Consultant 
 *[Intact Financial Corp.](https://www.intactfc.com/) & AXA Canada | Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
 
@@ -95,13 +89,11 @@ Led Commercial Lines pricing assignments in Western Canada. Business lines inclu
 
 ## Volunteer and Other Experience
 
-#### Member of the Board of Directors
-*[Bibliothèque d'Outils La Remise](https://laremise.ca/) | Montreal, QC* [*October 2017 --- April 2019*]{.dateformat}
+**Member of the Board of Directors** <br> *[Bibliothèque d'Outils La Remise](https://laremise.ca/) | Montreal, QC* [*October 2017 --- April 2019*]{.dateformat}
 
 Montreal's first tool library. Helped the cooperative consolidating and growing its service offering to the members of the local community.
 
-#### Young Directors Program 2016-2017
-*[Institute for governance of private and public organizations (IGOPP)](https://igopp.org/en/) | Montreal, QC* [*Nov 2016 --- May 2017*]{.dateformat}
+**Young Directors Program 2016-2017** <br> *[Institute for governance of private and public organizations (IGOPP)](https://igopp.org/en/) | Montreal, QC* [*Nov 2016 --- May 2017*]{.dateformat}
 
 ## More About Me
 
