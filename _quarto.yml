@@ -8,12 +8,8 @@ website:
   favicon: "./images/39a8754-2.ico"
   navbar:
     right:
-      - href: index.qmd
-        text: Home      
       - href: cv/cv.qmd
         text: Curriculum Vitae
-      - href: about.qmd
-        text: About Me
       - icon: envelope-at
         href: mailto://contact+ghislain@ghbrj.ca
       - icon: linkedin

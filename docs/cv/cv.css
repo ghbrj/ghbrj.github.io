@@ -13,10 +13,6 @@
   display: none;
 }
 
-body {
-    /*font-size: 1em;*/
-}
-  
 h2 {
   margin-top: 28px; 
 }
@@ -44,8 +40,8 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
 
   @page {
       size: Letter portrait;
-      margin-top: 1.2cm;
-      margin-bottom: 1.2cm;
+      margin-top: 1.6cm;
+      margin-bottom: 1.4cm;
   }
   
   .no-print {
@@ -99,13 +95,13 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   }
   
   p {
-    /*font-size: 10pt;*/
     padding: 0px;
     margin-top: 0pt;
   }
 
-  ul li{
-    /*font-size: 10pt;*/
+  ul {
+    list-style-position: outside;
+    padding-left: 12px;
   }
 
 }
