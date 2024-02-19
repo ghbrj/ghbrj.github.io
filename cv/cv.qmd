@@ -8,7 +8,7 @@ format:
     page-layout: full
     max-width: 1800px  
   pdf:
-    author: "Ghislain Brault-Joubert"
+    author: "Ghislain Brault-Joubert, FCAS"
     pdf-engine: weasyprint
 css: cv.css
 format-links: [pdf]
@@ -23,9 +23,9 @@ ghislain@ghbrj.ca | Montreal, QC | 514-726-0359
 Everyday I strive for superior, influential decision-making with data. I collaborate with business leaders to identify, 
 prioritize issues and deliver useful data solutions through my work and teams. 
 
-I would love to keep perfecting my craft as an analytics manager or senior data analyst by tackling novel, challenging business problems within and beyond the insurance industry. 
+I would love to contribute and keep perfecting my craft as an analytics leader or senior data analyst by tackling novel, challenging business problems within and beyond the insurance industry. 
 
-My work philosophy is deeply customer and problem-centric: *Useful* and *sufficient* solutions to the *right* problems to advance business objectives.
+My work philosophy is deeply customer and problem-centric: *Useful* and *sufficient* solutions to the *right* business issues to advance the objectives of the organization.
 
 ## Experience 
 
@@ -42,9 +42,9 @@ The analytics function within Claims needed to grow because of a rapid, signific
 
 - Dealt with business problems ranging from *workforce management*, *operational performance management*, *process improvement* such as work segmentation & assignment, *quality assurance & risk control* and management of *vendor relationships and performance*. Through my teams, I solve these problems using data analysis, modeling and visualizations (reports, dashboards). 
 
-***Skills***: *Strategic & Tactical Planning | Problem Solving | Data Analysis | Data Visualization | Machine Learning*
+***Skills***: *Strategic & Tactical Planning | Problem Solving | Metric Definition | Data Analysis | Data Visualization | Machine Learning*
 <br>
-***Technology***: *Virtual tools (Teams, Miro) | R | SQL | Jira | Confluence |Bitbucket | Guidewire Claim Center*
+***Technology***: *Virtual tools (Teams, Miro) | R | SQL | Jira | Confluence | Bitbucket | Guidewire Claim Center*
 
 **Analytics professionals needing strong leadership and a supportive environment to thrive**
 
@@ -91,11 +91,11 @@ Led Commercial Lines pricing assignments in Western Canada. Business lines inclu
 
 Montreal's first tool library. Helped the cooperative consolidating and growing its service offering to the members of the local community.
 
-**Young Directors Program 2016-2017** <br> *[Institute for governance of private and public organizations (IGOPP)](https://igopp.org/en/) | Montreal, QC* [*Nov 2016 --- May 2017*]{.dateformat}
+**Young Directors Program 2016-2017** <br> *[Institute for governance of private and public organizations (IGOPP)](https://igopp.org/en/) | Montreal, QC* [*November 2016 --- May 2017*]{.dateformat}
 
 ## More About Me
 
-**Core Values** Curiosity | Humbleness | Authenticity | Continuous Learning
+**Core Values** Curiosity | Humbleness | Authenticity | Growth and Learning
 
 **Top Strengths** Ideation | Adaptability | Strategic | Individualization | Learner *(From StrengthFinder 2.0)*
 

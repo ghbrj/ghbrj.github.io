@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ghbrj.ca/index_hidden.html</loc>
-    <lastmod>2024-02-03T16:51:25.992Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghbrj.ca/about.html</loc>
-    <lastmod>2024-02-03T16:51:18.371Z</lastmod>
+    <lastmod>2024-02-19T21:01:41.322Z</lastmod>
   </url>
   <url>
     <loc>https://ghbrj.ca/cv/cv.html</loc>
-    <lastmod>2024-02-03T16:51:23.855Z</lastmod>
+    <lastmod>2024-02-19T21:01:35.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghbrj.ca/about.html</loc>
+    <lastmod>2024-02-19T21:01:29.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghbrj.ca/cv/cv_fr.html</loc>
+    <lastmod>2024-02-19T21:01:39.178Z</lastmod>
   </url>
 </urlset>
