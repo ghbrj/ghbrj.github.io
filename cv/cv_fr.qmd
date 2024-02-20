@@ -19,7 +19,7 @@ ghislain@ghbrj.ca | Montréal, QC | 514-726-0359
 :::
 
 <br> 
-Je m'efforce à chaque jour d'influencer une meilleure prise de décision d'affaire grâce aux données. Je collabore avec mes partenaires en entreprise pour identifier, prioriser les enjeux d'affaires et fournir des solutions de données utiles à travers mon travail et celui de mes équipes.
+À chaque jour, je m'efforce d'influencer une meilleure prise de décision d'affaire grâce aux données. Je collabore avec mes partenaires en entreprise pour identifier, prioriser les enjeux d'affaires et fournir des solutions de données utiles à travers mon travail et celui de mes équipes.
 
 Je désire contribuer et me perfectionner aussi bien en tant que leader analytique qu'analyste de données sénior en m'attaquant à de nouvelles problématiques d'affaires au sein et au-delà du domaine de l'assurance.
 
@@ -42,7 +42,7 @@ La fonction d'analytique au sein du service des réclamations devait croître en
 
 ***Compétences***: *Planification stratégique et tactique | Résolution de problèmes | Métriques | Analyse de données | Visualisation de données | Apprentissage Machine* 
 <br>
-***Technologies***: *Outils de collaboration (Teams, Miro) | R | SQL | Jira | Confluence | Bitbucket | Guidewire Claim Center*
+***Technologies***: *Outils de collaboration (Teams, Miro) | R | SQL | Jira | Confluence | Git | Guidewire Claim Center*
 
 **Envers les membres de l'équipe d'analytique ayant besoin d'un leadership fort et d'un environnement favorable pour prospérer**
 
