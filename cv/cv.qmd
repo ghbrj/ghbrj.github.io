@@ -44,7 +44,7 @@ The analytics function within Claims needed to grow because of a rapid, signific
 
 ***Skills***: *Strategic & Tactical Planning | Problem Solving | Metric Definition | Data Analysis | Data Visualization | Machine Learning*
 <br>
-***Technology***: *Virtual tools (Teams, Miro) | R | SQL | Jira | Confluence | Bitbucket | Guidewire Claim Center*
+***Technology***: *Virtual tools (Teams, Miro) | R | SQL | Jira | Confluence | Git | Guidewire Claim Center*
 
 **Analytics professionals needing strong leadership and a supportive environment to thrive**
 
