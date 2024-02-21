@@ -64,7 +64,9 @@ The analytics function within Claims needed to grow because of a rapid, signific
 
 - Led all aspects of actuarial work for a portfolio of commercial risks worth ~$300M in annual premium. Delivered rate indications, segmentation analyses and related system implementations. Designed and implemented new rating algorithms and a risk selection framework.
 
-- Acted as people leader; oversaw the professional and personal wellbeing of about 6-8 team members, set goals & evaluated performance. Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development.
+- Acted as people leader; oversaw the professional and personal wellbeing of about 6-8 team members, set goals & evaluated performance. 
+
+- Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development.
 
 
 {{< pagebreak >}}
