@@ -103,5 +103,11 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
     list-style-position: outside;
     padding-left: 12px;
   }
+  
+  .callout .callout-style-simple {
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
 
 }

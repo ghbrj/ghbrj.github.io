@@ -25,7 +25,7 @@ prioritize issues and deliver useful data solutions through my work and teams.
 
 I would love to contribute and keep perfecting my craft as an analytics leader or senior data analyst by tackling novel, challenging business problems within and beyond the insurance industry. 
 
-My work philosophy is deeply customer and problem-centric: *Useful* and *sufficient* solutions to the *right* business issues to advance the objectives of the organization.
+My work philosophy is deeply focused on satisfying the needs of my business partners: *Useful* and *sufficient* solutions to the *right* business issues to advance the objectives of the organization.
 
 ## Experience 
 
@@ -34,7 +34,7 @@ My work philosophy is deeply customer and problem-centric: *Useful* and *suffici
 
 Settling claims is the promise made to ~1M policyholders when unfortunate events happen. The claims function pays out roughly $2B per year and has a workforce of ~1600 employees reporting up to 8-10 Assistant Vice-Presidents (AVPs). Tremendous opportunities to improve client, employee outcomes and reduce costs in an environement where the data maturity is low but developing.
 
-The analytics function within Claims needed to grow because of a rapid, significant increase in demand and expectations from business partners for decision-making with data. In this growth phase, it was important to create and maintain a supportive environment to ensure wellbeing of our team of ~30 professionals while delivering valuable and high quality work.
+The analytics function within Claims needed to grow because of a rapid, significant increase in demand and expectations from business partners for decision-making with data. In this growth phase, it has been important to create and maintain a supportive environment to ensure the well-being of our team, which has grown by ~20 people over 4 years while producing impactful, high-quality work.
 
 **Claims business partners needing analytics solutions to drive better decision-making**
 
@@ -64,9 +64,9 @@ The analytics function within Claims needed to grow because of a rapid, signific
 
 - Led all aspects of actuarial work for a portfolio of commercial risks worth ~$300M in annual premium. Delivered rate indications, segmentation analyses and related system implementations. Designed and implemented new rating algorithms and a risk selection framework.
 
-- Acted as people leader; oversaw the professional and personal wellbeing of about 6-8 team members, set goals & evaluated performance. 
+- Acted as *people leader*; oversaw the professional and personal wellbeing of about 6-8 team members, set goals & evaluated performance. 
 
-- Acted as technical supervisor, providing support and coaching on technical matters; Accompanied team members in their career development.
+- Acted as *technical supervisor*, providing support and coaching on technical matters; Accompanied team members in their career development.
 
 
 {{< pagebreak >}}

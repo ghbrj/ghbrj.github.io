@@ -19,11 +19,11 @@ ghislain@ghbrj.ca | Montréal, QC | 514-726-0359
 :::
 
 <br> 
-À chaque jour, je m’efforce d’influencer une meilleure prise de décision d’affaire grâce aux données. Je collabore avec mes partenaires d’affaires en entreprise pour identifier, prioriser les enjeux d’affaires et fournir des solutions utiles à travers mon travail et celui de mes équipes.
+À chaque jour, je m’efforce d’influencer une meilleure prise de décision d’affaires grâce aux données. Je collabore avec mes partenaires en entreprise pour identifier, prioriser les opportunités d'améliorations et fournir des solutions utiles à travers mon travail et celui de mes équipes.
 
 Je désire contribuer et me perfectionner en tant que gestionnaire en analytique ou encore comme analyste de données sénior en m’attaquant à de nouvelles problématiques d’affaires au sein et au-delà du domaine de l’assurance.
 
-Ma philosophie de travail est profondément centrée sur la satisfaction des besoins de mes partenaires d'affaires. Je privilégie des solutions *utiles* et *suffisantes* à de *réelles* problématiques qui aident les entreprises à progresser.
+Ma philosophie de travail est profondément centrée sur la satisfaction des besoins de mes partenaires d'affaires. Je privilégie des solutions *utiles* et *suffisantes* à de *réelles* problématiques qui aident les entreprises à surpasser leurs objectifs.
 
 ## Expérience 
 
@@ -32,13 +32,13 @@ Ma philosophie de travail est profondément centrée sur la satisfaction des bes
 
 La promesse faite à ~1M d’assurés est de les indemniser lorsqu’un événement malheureux survient. Le service des réclamations paie ~2G$ par an et compte un effectif d’environ 1 600 employés se rapportant à 8-10 vice-présidents adjoints (VPA). Ceci représente une opportunité énorme d’améliorer l’expérience client, l’expérience employé et de réduire les coûts liés à l’indemnisation dans un environnement ou la maturité des données est relativement faible mais en amélioration.  
 
-L’équipe analytique au sein du service des réclamations a dû croître rapidement en raison d’une augmentation rapide et significative de la demande et des attentes des partenaires d’affaires en matière de prise de décision supportées par des données. Dans cette phase de croissance, il a été important de créer et de maintenir un environnement favorable pour assurer le bien-être de notre équipe qui a grandi de ~20 personnes sur 4 ans tout en produisant un travail utile et de haute qualité.
+L’équipe analytique au sein du service des réclamations a dû croître rapidement en raison d’une augmentation rapide et significative de la demande et des attentes des partenaires d’affaires en matière de prise de décision supportées par des données. Dans cette phase de croissance, il a été important de créer et de maintenir un environnement favorable pour assurer le bien-être de notre équipe qui a grandi de ~20 personnes sur 4 ans tout en produisant un travail d'impact et de haute qualité.
 
 **Envers les partenaires d’affaires ayant besoin de solutions analytiques pour améliorer la prise de décision**
 
 - Agir en tant que *leader stratégique* auprès des partenaires pour faciliter l'émergence des problèmes d'affaires, identifier et prioriser les initiatives en matière de données et superviser l'exécution par les équipes de livraison.  
 
-- Supporter la prise de décision quant à la *gestion des effectifs*, *la gestion de la performance opérationnelle*, *l'amélioration des processus* tels que la segmentation et l'affectation du travail, *l'assurance qualité et le contrôle des risques* ainsi que la gestion des *relations et performance avec les fournisseurs externes*. Avec mes équipes, je résous ces problématiques grâce à l'analyse des données, à la modélisation et à l'aide de visualisations (rapports, tableaux de bord).
+- Supporter la prise de décision quant à la *gestion des effectifs*, *la gestion de la performance opérationnelle*, *l'amélioration des processus* tels que la segmentation et l'affectation du travail, *l'assurance qualité et le contrôle des risques* ainsi que la gestion des *relations et performance avec les fournisseurs externes*. Avec mes équipes, résoudre ces problématiques grâce à l'analyse des données, la modélisation et à l'aide de visualisations (rapports, tableaux de bord).
 
 ***Compétences***: *Planification stratégique et tactique | Résolution de problèmes | Métriques | Analyse de données | Visualisation de données | Apprentissage Machine* 
 <br>
@@ -62,9 +62,9 @@ L’équipe analytique au sein du service des réclamations a dû croître rapid
 
 - Diriger tous les aspects du travail actuariel pour un portefeuille représentant ~300M$ en prime annuelle. Livrer des indiqués de taux, des analyses de segmentation et collaborer à la mise en œuvre dans les  systèmes. Conception et mise en œuvre de nouveaux algorithmes de tarification et d’un outil de sélection des risques.
 
-- Agir à titre de gestionnaire de personnel : superviser le bien-être professionnel et personnel de 6-8 membres de l’équipe, établir des objectifs et évaluer la performance.
+- Agir à titre de *gestionnaire de personnel*: superviser le bien-être professionnel et personnel de 6-8 membres de l’équipe, établir des objectifs et évaluer la performance.
 
-- Agir à titre de superviseur technique : fournir du soutien et du mentorat sur des questions techniques; Accompagnement des membres de l’équipe dans leur planification de carrière.
+- Agir à titre de *superviseur technique*: fournir du soutien et du mentorat sur des questions techniques; Accompagnement des membres de l’équipe dans leur planification de carrière.
 
 ### Consultant en actuariat 
 *[Intact corporation financière](https://www.intactfc.com/fr) & AXA Canada | Vancouver, BC* [*Août 2009 --- Avril 2014*]{.dateformat}
