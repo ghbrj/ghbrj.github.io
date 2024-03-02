@@ -1,0 +1,99 @@
+---
+title: "Curriculum Vitae"
+format:
+  pdf:
+    author: "Ghislain Brault-Joubert, FCAS"
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+lang: fr
+---
+
+::: {.print-only .contact-block}
+**Actuaire et Professionnel de l'analytique**<br>
+ghislain@ghbrj.ca | Montréal, QC | 514-726-0359
+:::
+
+<br> 
+À chaque jour, je m’efforce d’influencer une meilleure prise de décision d’affaires grâce aux données. Je collabore avec mes partenaires en entreprise pour identifier, prioriser les opportunités d'améliorations et fournir des solutions utiles à travers mon travail et celui de mes équipes.
+
+Fort de mes 13 ans d'expérience comme actuaire et 5 ans en analytique, je désire contribuer et me perfectionner en tant que gestionnaire ou actuaire sénior au sein d'une équipe performante et innovante en assurances générales.
+
+Ma philosophie de travail est profondément centrée sur la satisfaction des besoins de mes partenaires d'affaires. Je privilégie des solutions *utiles* et *suffisantes* qui aident les entreprises à surpasser leurs objectifs.
+
+
+## Expérience 
+
+### Directeur Principal[^1], Analytique de réclamations
+*[Co-operators compagnie d'assurances générales](https://www.cooperators.ca/fr-CA/) | Montréal, QC* [*Janvier 2020 --- Aujourd'hui*]{.dateformat}
+
+L’équipe analytique au sein du service des réclamations a dû croître rapidement en raison d’une augmentation rapide et significative de la demande et des attentes des partenaires d’affaires en matière de prise de décision supportées par des données pour améliorer l’expérience client, l’expérience employé et réduire les coûts liés à l’indemnisation. 
+
+Dans cette phase de croissance, il a été important de créer et de maintenir un environnement favorable pour assurer le bien-être de notre équipe qui a grandi de ~20 personnes sur 4 ans tout en produisant un travail d'impact et de haute qualité.
+
+- Supporter la prise de décision quant à la *gestion des effectifs*, *la gestion de la performance opérationnelle*, *l'amélioration des processus* tels que la segmentation et l'affectation du travail, *l'assurance qualité et le contrôle des risques* ainsi que la gestion des *relations et performance avec les fournisseurs externes*. Avec mes équipes, résoudre ces problématiques grâce à l'analyse des données, la modélisation et à l'aide de visualisations (rapports, tableaux de bord).
+
+- Agir en tant que *leader stratégique* auprès des partenaires pour faciliter l'émergence des problèmes d'affaires, identifier et prioriser les initiatives en matière de données et superviser l'exécution par les équipes de livraison. Définir et négocier les modes d’opération et de service avec le service des réclamations et l’organisation; Définition des processus de travail associés (admission, priorisation, exécution) et intégration de principes de livraison plus agiles; Définition et mise en œuvre de plans de gestion du changement.
+
+- Agir en tant que *gestionnaire de personnel*: définir les mandats d’équipe, les rôles et responsabilités ainsi que les attentes en matière de performance; Procéder à l’embauche de plus de 15 professionnels; Évaluer et récompenser l’atteinte des objectifs; Influencer et mettre en œuvre des changements de structure et de rôles.
+
+- Agir à titre de *superviseur technique*: fournir du soutien et du mentorat sur des questions techniques; Accompagnement des membres de l’équipe dans leur planification de carrière.
+
+***Compétences***: *Planification stratégique et tactique | Résolution de problèmes | Métriques | Analyse de données | Visualisation de données | Apprentissage Machine* | *Gestion de personnel | Gestion de la performance | Amélioration de processus | Négociation | Gestion du changement*
+<br>
+***Technologies***: *Outils de collaboration (Teams, Miro) | R | SQL | Jira | Confluence | Git | Guidewire Claim Center*
+
+### Directeur Actuariat[^2] & Expert
+*[Co-operators compagnie d'assurances générales](https://www.cooperators.ca/fr-CA/) | Montréal, QC* [*Mai 2014 --- Janvier 2020*]{.dateformat}
+
+Favoriser une croissance rentable du portefeuille d’assurance des entreprises grâce à l'identification et éxécution d'initiatives de tarification
+
+- Diriger tous les aspects du travail actuariel pour un portefeuille représentant ~300M$ en prime annuelle. Livrer des indiqués de taux, des analyses de segmentation et collaborer à la mise en œuvre dans les  systèmes. Conception et mise en œuvre de nouveaux algorithmes de tarification et d’un outil de sélection des risques.
+
+- Agir à titre de gestionnaire de personnel : superviser le bien-être professionnel et personnel de 6-8 membres de l’équipe, établir des objectifs et évaluer la performance.
+
+- Agir à titre de superviseur technique : fournir du soutien et du mentorat sur des questions techniques; Accompagnement des membres de l’équipe dans leur planification de carrière.
+
+{{< pagebreak >}}
+### Consultant en actuariat 
+*[Intact corporation financière](https://www.intactfc.com/fr) & AXA Canada | Vancouver, BC* [*Août 2009 --- Avril 2014*]{.dateformat}
+
+Diriger les mandats de tarification en assurance des entreprises pour le portefeuille de l’Ouest canadien. Les secteurs d’activité comprenaient les filings en automobile commerciale, les petites et moyennes entreprises, les grands comptes, les assurances spécialisées (Erreurs & Omissions, Directeurs & Officiers) et la couverture contre les tremblements de terre.
+
+## Éducation 
+
+**M.Sc. Microprogramme - Exploitation de données en intelligence d'affaire** <br> *HEC Montréal | Montréal, QC* [*2018 --- 2019*]{.dateformat}
+
+**B.Sc. Actuariat** <br> *Université Laval | Québec, QC* [*2004 --- 2007*]{.dateformat}
+
+## Titres professionnels
+
+**Fellow, [Casualty Actuarial Society](https://www.casact.org/) (FCAS)** [*Mai 2012 --- Aujourd'hui*]{.dateformat}
+
+**Fellow, [Institut canadien des actuaires](https://www.cia-ica.ca/fr/) (FICA)** [*Expiré | Novembre 2012 --- Septembre 2022*]{.dateformat}
+
+## Bénévolat et autres expériences
+
+**Administrateur, membre du conseil d’administration** <br> *[Bibliothèque d'Outils La Remise](https://laremise.ca/) | Montréal, QC* [*Octobre 2017 --- Avril 2019*]{.dateformat}
+
+La Remise est la première bibliothèque d'outils à Montréal. Aider la coopérative à consolider et à accroître son offre de services aux membres de la communauté locale.
+
+**Programme Relève en gouvernance 2016-2017** <br> *[Institut sur la gouvernance (IGOPP)](https://igopp.org/jaigopp/) | Montréal, QC* [*Novembre 2016 --- Mai 2017*]{.dateformat}
+
+## À propos de moi
+
+**Valeurs** Curiosité | Humilité | Authenticité | Apprentissage et développement
+
+**Forces** Idéation | Adaptabilité | Stratégique | Individualisation | Apprenant *(StrengthFinder 2.0)*
+
+**Langues** Français | Anglais | Allemand (élémentaire) | Espagnol (désire apprendre)
+
+::: {.print-only}
+<br><br>
+Références disponibles sur demande
+:::
+
+<br>
+
+[^1]: Comme directeur principal, j'ai supervisé des directeurs et analystes/scientifiques de données
+[^2]: Comme directeur, j'ai supervisé des actuaires juniors et séniors
