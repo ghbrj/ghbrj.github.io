@@ -1,0 +1,99 @@
+---
+title: "Curriculum Vitae"
+format:
+  pdf:
+    author: "Ghislain Brault-Joubert, FCAS"
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+lang: en
+---
+
+::: {.print-only .contact-block}
+**Actuary & Analytics professional**<br>
+ghislain@ghbrj.ca | Montreal, QC | 514-726-0359
+:::
+
+<br> 
+Everyday I strive for superior, influential decision-making with data. I collaborate with business leaders to identify, prioritize issues and deliver useful data solutions through my work and teams.
+
+With 13 years of experience as an actuary and 5 in analytics, I would like to contribute as a leader or senior actuary in a high-performance, innovative team for a Property & Casualty insurer.
+
+My work philosophy is deeply focused on satisfying the needs of my business partners: *Useful* and *sufficient* solutions to the *right* business issues to surpass the objectives of the organization.
+
+## Experience 
+
+### Sr. Manager[^1], Claims Analytics
+*[Co-operators General Insurance Co.](https://www.cooperators.ca/) | Montreal, QC* [*January 2020 --- Present*]{.dateformat}
+
+The analytics function within Claims needed to grow because of a rapid, significant increase in demand and expectations from business partners for decision-making with data. The function supports the reduction of claims-related costs and the improvement of the client and employee experience.
+
+In this growth phase, it has been important to create and maintain a supportive environment to ensure the well-being of our team, which has grown by ~20 people over 4 years while producing impactful, high-quality work.
+
+- Supported decision-making related to *workforce management*, *operational performance management*, *process improvement* such as work segmentation & assignment, *quality assurance & risk control* and management of *vendor relationships and performance*. Through my teams, I solved these problems using data analysis, modeling and visualizations (reports, dashboards). 
+
+- Acted as a *strategic leader* with business partners to facilitate the elicitation of business problems, identify and prioritize data initiatives and oversee execution by analytics delivery teams. Defined and negotiated operating and service models with Claims and other partners; Defined related workflows (intake, prioritization, execution) and integrated more agile delivery principles; Built and implemented change management plans. 
+
+- Acted as *people leader*, defined team mandates, roles & responsibilities and performance expectations; Hired 15+ analytics professionals; Evaluated & rewarded achievement of goals; Influenced & implemented structure and role changes.
+
+- Acted as *technical supervisor*, provided support and coaching on technical matters; Accompanied team members in their career development.
+
+***Skills***: *Strategic & Tactical Planning | Problem Solving | Metric Definition | Data Analysis | Data Visualization | Machine Learning | People Leadership | Performance Management | Process Improvement | Negotiation | Change Management*
+<br>
+***Technology***: *Virtual tools (Teams, Miro) | R | SQL | Jira | Confluence | Git | Guidewire Claim Center*
+
+### Actuarial Manager[^2] & Expert
+*[Co-operators General Insurance Co.](https://www.cooperators.ca/) | Montreal, QC* [*May 2014 --- January 2020*]{.dateformat}
+
+Driving profitable growth of the commercial lines portfolio through the identification and execution of pricing initiatives.
+
+- Led all aspects of actuarial work for a portfolio representing ~$300M in annual premium. Delivered rate indications, segmentation analyses and related system implementations. Designed and implemented new pricing algorithms and a risk selection tool.
+
+- Acted as *people leader*: oversaw the professional and personal wellbeing of about 6-8 team members, set goals & evaluated performance. 
+
+- Acted as *technical supervisor*: providing support and coaching on technical matters; Accompanied team members in their career development.
+
+### Actuarial Consultant 
+*[Intact Financial Corp.](https://www.intactfc.com/) & AXA Canada | Vancouver, BC* [*August 2009 --- April 2014*]{.dateformat}
+
+Led Commercial Lines pricing assignments in Western Canada. Business lines included commercial automobile rate filings, small businesses, mid-market commercial, large accounts, specialty lines (E&O, D&O) and earthquake coverage.
+
+{{< pagebreak >}}
+
+## Education 
+
+**M.Sc. Microprogram - Business Intelligence Data mining** <br> *HEC Montreal | Montreal, QC* [*2018 --- 2019*]{.dateformat}
+
+**B.Sc. Actuarial Science** <br> *Laval University | Quebec City, QC* [*2004 --- 2007*]{.dateformat}
+
+## Professional Designation
+
+**Fellow, [Casualty Actuarial Society](https://www.casact.org/) (FCAS)** [*May 2012 --- Present*]{.dateformat}
+
+**Fellow, [Canadian Institute of Actuaries](https://www.cia-ica.ca/) (FCIA)** [*Expired | November 2012 --- September 2022*]{.dateformat}
+
+## Volunteer and Other Experience
+
+**Member of the Board of Directors** <br> *[Bibliothèque d'Outils La Remise](https://laremise.ca/) | Montreal, QC* [*October 2017 --- April 2019*]{.dateformat}
+
+Montreal's first tool library. Helped the cooperative consolidating and growing its service offering to the members of the local community.
+
+**Young Directors Program 2016-2017** <br> *[Institute for governance of private and public organizations (IGOPP)](https://igopp.org/en/) | Montreal, QC* [*November 2016 --- May 2017*]{.dateformat}
+
+## More About Me
+
+**Core Values** Curiosity | Humbleness | Authenticity | Growth and Learning
+
+**Top Strengths** Ideation | Adaptability | Strategic | Individualization | Learner *(From StrengthFinder 2.0)*
+
+**Languages** French (Native) | English (Full professional proficiency) | German (Elementary) | Spanish (Want to learn)
+
+::: {.print-only}
+<br><br>
+References available upon request
+:::
+
+<br>
+
+[^1]: As Sr. Manager, I supervised managers and data analysts & scientists
+[^2]: As Manager, I supervised actuaries (individual contributors, junior to senior)
