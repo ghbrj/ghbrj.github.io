@@ -1,10 +1,6 @@
 ---
-title: "Profil professionnel"
+title: "Curriculum Vitae"
 format:
-  html:
-    toc: true
-    page-layout: full
-    max-width: 1800px  
   pdf:
     author: "Ghislain Brault-Joubert, FCAS"
     pdf-engine: weasyprint
@@ -19,24 +15,24 @@ ghislain@ghbrj.ca | Montréal, QC | 514-726-0359
 :::
 
 <br> 
-Conseiller stratégique et gestionnaire avec plus de 20 ans d’expérience en assurance de dommages. Parcours combinant gestion d’équipes, influence stratégique et accompagnement de la direction. Reconnu pour opérer efficacement à un niveau exécutif, y compris dans des rôles sans responsabilité hiérarchique directe, en s’appuyant sur une solide expérience de gestion et un parcours en actuariat.
+Conseiller stratégique et gestionnaire avec plus de 20 ans d’expérience en assurance de dommages, reconnu pour un rôle transverse d’influence, combinant leadership, structuration stratégique et accompagnement de la direction. Parcours marqué par la gestion d’équipes et de fonctions analytiques et d'actuariat, l'élaboration et la réalisation de mandats complexes à fort impact et la capacité à opérer efficacement sans lien hiérarchique direct. 
 
 ## Expérience 
 
 ### Conseiller expert en stratégies d’affaires (conseiller stratégique), Assurance des entreprises
 *[Beneva](https://www.beneva.ca/) | Montréal, QC* [*Août 2024 --- Aujourd'hui*]{.dateformat}
 
-Rôle senior transverse sans responsabilité hiérarchique direct, en appui à la vice-présidence de l’assurance des entreprises. Mandat centré sur la stratégie d’affaires, la croissance rentable et l'évolution organisationnelle, en s’appuyant sur une forte expérience de gestion. 
+Rôle senior transverse opérant à un niveau de gestion intermédiaire, sans responsabilité hiérarchique direct, en appui à la vice-présidence de l’assurance des entreprises. Mandat centré sur la stratégie d’affaires, la croissance rentable et la transformation organisationnelle, en s’appuyant sur une forte expérience de gestion. 
 
-- Porteur d’une démarche stratégique de croissance long terme en assurance des entreprises (horizon pluriannuel), visant une augmentation significative du volume de primes et du positionnement de marché. 
+- Porteur global du Défi du milliard, démarche stratégique de croissance long terme de l’assurance des entreprises (horizon 2025–2030), visant un volume cible de 1G$: cadrage du mandat, structuration de l’approche et animation de la réflexion stratégique à l’échelle de l’organisation.
 
-- Définition des priorités de croissance et structuration d’un plan d’action haut niveau mobilisant plusieurs équipes transverses. 
+- Définition du positionnement stratégique et des priorités de croissance, puis traduction en un plan d’action haut niveau structuré en axes et initiatives, séquencé sur plusieurs années et mobilisant de nombreuses équipes transverses.
 
-- Développement du business case incluant l’analyse des impacts financiers, organisationnels et des besoins en ressources. 
+- Développement du business case associé : analyse des leviers de valeur, des impacts financiers et organisationnels, des besoins en ressources et des risques; contribution active aux instances de gouvernance et aux décisions de gestion.
 
-- Appui à la direction sur des enjeux structurants et arbitrages stratégiques, incluant la transition vers la mise en œuvre. 
+- Appui direct à la direction sur des enjeux structurants et stratégiques, incluant la transition vers la mise en œuvre et l’alignement des équipes de gestion.
 
-- Référent en innovation et IA générative, accompagnant l’adoption d’outils d’aide à la décision par les gestionnaires. 
+- Innovation et IA générative: rôle de référent interne pour l’identification de cas d’usage à valeur ajoutée et l’accompagnement de l’adoption de Copilot M365.
 
 ***Compétences***: *Stratégie d’affaires · Facilitation exécutive · Positionnement stratégique · Business case · Gouvernance · Évolution organisationnelle · IA générative*
 
@@ -45,26 +41,26 @@ Rôle senior transverse sans responsabilité hiérarchique direct, en appui à l
 
 Leadership de la fonction analytique en indemnisation dans une organisation comptant environ 1 600 employés, avec des paiements de sinistres annuels de l’ordre de 2 G$, dans un contexte de montée en maturité et de transformation organisationnelle. 
 
-- Structuration de la mission, des modèles de gouvernance et de priorisation des enjeux d’affaires. 
+- Gestion et structuration d’une fonction analytique en forte croissance, incluant une équipe passée à ~20 professionnels sur 4 ans.
 
-- Partenaire stratégique des directions pour le cadrage de problématiques à fort impact (capacité, performance, qualité, risques, fournisseurs). 
+- Gestion directe et indirecte de gestionnaires, analystes et scientifiques de données; embauche de 15+ professionnels et accompagnement du développement des talents.
 
-- Mise en place de modèles d’opération et de livraison favorisant une prise de décision cohérente et fondée sur les données. 
+- Partenaire stratégique des directions principales pour la résolution de problématiques à fort impact (gestion des effectifs, performance opérationnelle, qualité, risques, fournisseurs). 
 
-- Gestion d’équipes multidisciplinaires comptant jusqu’à ~20 professionnels, incluant le recrutement de 15+ ressources. 
+- Mise en place de modèles de gouvernance, de priorisation et de livraison soutenant la prise de décision à l’échelle de fonctions majeures. 
 
-- Leadership humain : développement des talents et accompagnement des gestionnaires. 
+- Référent technique assurant la rigueur, la qualité et la pertinence des livrables décisionnels. 
 
-- Référent technique assurant la rigueur, la qualité et la pertinence des livrables décisionnels.
+***Compétences***: *Planification stratégique et tactique · Résolution de problèmes · Métriques · Analyse de données · Visualisation de données · Apprentissage Machine · Gestion de personnel · Gestion de la performance · Amélioration de processus · Négociation · Gestion du changement*
 
-***Compétences***: *Gestion de personnel | Gestion de la performance | Amélioration de processus | Négociation | Gestion du changement*
+***Technologies***: *Outils de collaboration (Teams, Miro) · R · SQL · Jira · Confluence · Git · Guidewire Claim Center*
 
 {{< pagebreak >}}
 
 ### Directeur Actuariat[^2] & Expert
 *[Co-operators compagnie d'assurances générales](https://www.cooperators.ca/fr-CA/) | Montréal, QC* [*Mai 2014 --- Janvier 2020*]{.dateformat}
 
-Responsable des travaux actuariels liés à un portefeuille d’assurance des entreprises représentant environ 300 M$ de primes annuelles. 
+Responsable des travaux actuariels liés à un portefeuille d’assurance des entreprises représentant environ 300 M$ de primes annuelles.
 
 - Analyses de tarification, segmentation et indications de taux. 
 
@@ -105,7 +101,7 @@ La Remise est la première bibliothèque d'outils à Montréal. Aider la coopér
 
 **Forces** Idéation | Adaptabilité | Stratégique | Individualisation | Apprenant *(StrengthFinder 2.0)*
 
-**Langues** Français | Anglais
+**Langues** Français | Anglais 
 
 ::: {.print-only}
 <br><br>
