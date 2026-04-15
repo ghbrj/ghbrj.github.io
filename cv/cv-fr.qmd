@@ -19,35 +19,35 @@ ghislain@ghbrj.ca | Montréal, QC | 514-726-0359
 :::
 
 <br> 
-Conseiller stratégique et gestionnaire avec plus de 20 ans d’expérience en assurance de dommages. Parcours combinant gestion d’équipes, influence stratégique et accompagnement de la direction. Reconnu pour opérer efficacement à un niveau exécutif, y compris dans des rôles sans responsabilité hiérarchique directe, en s’appuyant sur une solide expérience de gestion et un parcours en actuariat.
+Conseiller stratégique et gestionnaire avec plus de 20 ans d’expérience en assurance de dommages, principalement en assurance des entreprises. Parcours combinant influence stratégique, accompagnement de la direction et gestion d’équipes. Reconnu pour opérer efficacement à un niveau exécutif en s’appuyant sur une solide expérience de gestion et un parcours varié en actuariat et en analytique d'affaires.
 
 ## Expérience 
 
 ### Conseiller stratégique, Assurance des entreprises
 *[Beneva](https://www.beneva.ca/) | Montréal, QC* [*Août 2024 --- Aujourd'hui*]{.dateformat}
 
-Rôle senior transverse sans responsabilité hiérarchique direct, en appui à la vice-présidence de l’assurance des entreprises. Mandat centré sur la stratégie d’affaires, la croissance rentable et l'évolution organisationnelle, en s’appuyant sur une forte expérience de gestion. 
+Rôle senior transverse sans responsabilité hiérarchique direct, en appui à la vice-présidence de l’assurance des entreprises. Mandat centré sur la stratégie d’affaires, la croissance rentable et l'évolution organisationnelle en s’appuyant sur une forte expérience de gestion. 
 
-- Porteur d’une démarche stratégique de croissance long terme en assurance des entreprises (horizon pluriannuel), visant une augmentation significative du volume de primes et du positionnement de marché. 
+- Porteur d’une démarche stratégique de croissance long terme en assurance des entreprises (horizon 2025–2030), visant un volume cible de 1G$.
 
 - Définition des priorités de croissance et structuration d’un plan d’action haut niveau mobilisant plusieurs équipes transverses. 
 
-- Développement de business case incluant l’analyse des impacts financiers, organisationnels et des besoins en ressources. 
+- Développement de business case incluant l’analyse des impacts financiers, organisationnels et des besoins en ressources, et transition vers la mise en œuvre. 
 
-- Appui à la direction sur des enjeux structurants et arbitrages stratégiques, incluant la transition vers la mise en œuvre. 
+- Prise en charge de la coordination et l'amélioration continue des processus de planification annuelle et planification d'effectifs. 
 
-- Référent en innovation et IA générative, accompagnant l’adoption d’outils d’aide à la décision par les gestionnaires. 
+- Référent en innovation et IA générative, accompagnant les gestionnaires dans l’adoption d’outils et la gestion du changement dans leurs équipes. 
 
 ***Compétences***: *Stratégie d’affaires · Facilitation exécutive · Positionnement stratégique · Business case · Gouvernance · Évolution organisationnelle · IA générative*
 
 ### Directeur Principal[^1], Analytique de réclamations
 *[Co-operators compagnie d'assurances générales](https://www.cooperators.ca/fr-CA/) | Montréal, QC* [*Janvier 2020 --- Juillet 2024*]{.dateformat}
 
-Leadership de la fonction analytique en indemnisation dans une organisation comptant environ 1 600 employés, avec des paiements de sinistres annuels de l’ordre de 2 G$, dans un contexte de montée en maturité et de transformation organisationnelle. 
+Leadership de la fonction analytique en indemnisation dans un département comptant environ 1 600 employés, avec des paiements de sinistres annuels de l’ordre de 2 G$, dans un contexte de montée en maturité et de transformation organisationnelle. 
 
 - Structuration de la mission, des modèles de gouvernance et de priorisation des enjeux d’affaires. 
 
-- Partenaire stratégique des directions pour le cadrage de problématiques à fort impact (capacité, performance, qualité, risques, fournisseurs). 
+- Partenaire stratégique des directions pour le cadrage de problématiques à fort impact (planification des effectifs, gestion de la performance, assurance qualité, gestion des risques, gestion des fournisseurs). 
 
 - Mise en place de modèles d’opération et de livraison favorisant une prise de décision cohérente et fondée sur les données. 
 
@@ -55,9 +55,9 @@ Leadership de la fonction analytique en indemnisation dans une organisation comp
 
 - Leadership humain : développement des talents et accompagnement des gestionnaires. 
 
-- Référent technique assurant la rigueur, la qualité et la pertinence des livrables décisionnels.
+- Référent technique assurant la rigueur, la qualité et la pertinence des livrables des équipes.
 
-***Compétences***: *Gestion de personnel | Gestion de la performance | Amélioration de processus | Négociation | Gestion du changement*
+***Compétences***: *Gestion de personnel | Résolution de problèmes | Gestion de la performance | Amélioration de processus | Négociation | Gestion du changement*
 
 {{< pagebreak >}}
 
@@ -68,7 +68,7 @@ Responsable des travaux actuariels liés à un portefeuille d’assurance des en
 
 - Analyses de tarification, segmentation et indications de taux. 
 
-- Conception et implantation d’algorithmes de tarification et d’outils de sélection des risques. 
+- Conception et implantation d’algorithmes de tarification (Guidewire) et d’outils de sélection des risques. 
 
 - Appui aux décisions stratégiques liées à la croissance et à la rentabilité du portefeuille. 
 
@@ -77,7 +77,7 @@ Responsable des travaux actuariels liés à un portefeuille d’assurance des en
 ### Consultant en actuariat 
 *[Intact corporation financière](https://www.intactfc.com/fr) & AXA Canada | Vancouver, BC* [*Août 2009 --- Avril 2014*]{.dateformat}
 
-Réalisation de mandats de tarification en assurance des entreprises pour le portefeuille de l’Ouest canadien, incluant les filings en automobile commerciale, les petites et moyennes entreprises, les programmes et grands comptes, les assurances spécialisées (Erreurs & Omissions, Directeurs & Officiers) et la couverture contre les tremblements de terre.
+Réalisation de mandats de tarification en assurance des entreprises pour le portefeuille de l’Ouest canadien, incluant les filings en automobile commerciale, les petites et moyennes entreprises, les programmes et grands comptes, les assurances spécialisées (E&O, D&O) et la couverture contre les tremblements de terre.
 
 ## Éducation 
 
