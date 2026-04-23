@@ -13,7 +13,7 @@ website:
       - href: cv/cv-fr.qmd
         text: Curriculum Vitae (Fr)
       - icon: envelope-at
-        href: mailto://contact+ghislain@ghbrj.ca
+        href: mailto:ghislain@ghbrj.ca
       - icon: linkedin
         href: https://www.linkedin.com/in/ghbrj
       - icon: github

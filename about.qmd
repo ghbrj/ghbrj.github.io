@@ -5,7 +5,7 @@ about:
   template: trestles
   links:
     - icon: envelope-at
-      href: mailto://contact+ghislain@ghbrj.ca
+      href: mailto:ghislain@ghbrj.ca
     - icon: linkedin
       href: https://www.linkedin.com/in/ghbrj
     - icon: github
