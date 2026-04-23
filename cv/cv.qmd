@@ -1,5 +1,5 @@
 ---
-title: "Profil professionnel"
+title: "Professional Profile"
 format:
   html:
     toc: true
@@ -10,109 +10,109 @@ format:
     pdf-engine: weasyprint
 css: cv.css
 format-links: [pdf]
-lang: fr
+lang: en
 ---
 
 ::: {.print-only .contact-block}
-**Conseiller stratégique et gestionnaire**<br>
-ghislain@ghbrj.ca | Montréal, QC | 514-726-0359
+**Strategic Advisor and Leader**<br>
+ghislain@ghbrj.ca | Montreal, QC | 514-726-0359
 :::
 
 <br> 
-Conseiller stratégique et gestionnaire avec plus de 20 ans d’expérience en assurance de dommages. Parcours combinant gestion d’équipes, influence stratégique et accompagnement de la direction. Reconnu pour opérer efficacement à un niveau exécutif, y compris dans des rôles sans responsabilité hiérarchique directe, en s’appuyant sur une solide expérience de gestion et un parcours en actuariat.
+Strategic Advisor and Leader with over 20 years of experience in property and casualty insurance, primarily in commercial insurance. Background combining strategic influence, executive support, and people management. Recognized for operating effectively at an executive level based on solid management experience and a varied background in actuarial science and business analytics.
 
-## Expérience 
+## Experience 
 
-### Conseiller stratégique, Assurance des entreprises
-*[Beneva](https://www.beneva.ca/) | Montréal, QC* [*Août 2024 --- Aujourd'hui*]{.dateformat}
+### Strategic Advisor, Commercial Insurance
+*[Beneva](https://www.beneva.ca/) | Montreal, QC* [*Aug 2024 --- Present*]{.dateformat}
 
-Rôle senior transverse sans responsabilité hiérarchique direct, en appui à la vice-présidence de l’assurance des entreprises. Mandat centré sur la stratégie d’affaires, la croissance rentable et l'évolution organisationnelle, en s’appuyant sur une forte expérience de gestion. 
+Senior cross-functional role without direct hierarchical responsibility, supporting the Vice-President of Commercial Insurance. Mandate focused on business strategy and organizational evolution, leveraging strong management experience. 
 
-- Porteur d’une démarche stratégique de croissance long terme en assurance des entreprises (horizon pluriannuel), visant une augmentation significative du volume de primes et du positionnement de marché. 
+- Leading the development of a long-term strategic growth plan in commercial insurance (2025–2030 horizon), targeting $1B direct written premium.
 
-- Définition des priorités de croissance et structuration d’un plan d’action haut niveau mobilisant plusieurs équipes transverses. 
+- Defining growth priorities and structuring a high-level action plan mobilizing several cross-functional teams. 
 
-- Développement de business case incluant l’analyse des impacts financiers, organisationnels et des besoins en ressources. 
+- Developing business cases including financial, organizational impact analysis, and resource needs, transitioning toward implementation. 
 
-- Appui à la direction sur des enjeux structurants et arbitrages stratégiques, incluant la transition vers la mise en œuvre. 
+- Coordinating and leading continuous improvement of annual planning and workforce planning processes. 
 
-- Référent en innovation et IA générative, accompagnant l’adoption d’outils d’aide à la décision par les gestionnaires. 
+- Reference point for innovation and generative AI, supporting leaders in adopting tools and managing change within their teams. 
 
-***Compétences***: *Stratégie d’affaires · Facilitation exécutive · Positionnement stratégique · Business case · Gouvernance · Évolution organisationnelle · IA générative*
+***Skills***: *Business Strategy · Executive Facilitation · Strategic Positioning · Business Case · Governance · Organizational Evolution · Generative AI*
 
-### Directeur Principal[^1], Analytique de réclamations
-*[Co-operators compagnie d'assurances générales](https://www.cooperators.ca/fr-CA/) | Montréal, QC* [*Janvier 2020 --- Juillet 2024*]{.dateformat}
+### Senior Manager[^1], Claims Analytics
+*[Co-operators General Insurance Company](https://www.cooperators.ca/fr-CA/) | Montreal, QC* [*Jan 2020 --- Jul 2024*]{.dateformat}
 
-Leadership de la fonction analytique en indemnisation dans une organisation comptant environ 1 600 employés, avec des paiements de sinistres annuels de l’ordre de 2 G$, dans un contexte de montée en maturité et de transformation organisationnelle. 
+Leadership of the claims analytics function in a department comprising approximately 1,600 employees, with annual claims payments totaling about $2B, within a context of increasing maturity and organizational transformation. 
 
-- Structuration de la mission, des modèles de gouvernance et de priorisation des enjeux d’affaires. 
+- Structuring the mission, governance models, and prioritization of business issues. 
 
-- Partenaire stratégique des directions pour le cadrage de problématiques à fort impact (capacité, performance, qualité, risques, fournisseurs). 
+- Strategic partner to claims management teams for defining high-impact business problems (workforce planning, performance management, quality assurance, risk management, vendor management). 
 
-- Mise en place de modèles d’opération et de livraison favorisant une prise de décision cohérente et fondée sur les données. 
+- Negotiating and implementing operating and service models enabling consistent and data-driven decision-making. 
 
-- Gestion d’équipes multidisciplinaires comptant jusqu’à ~20 professionnels, incluant le recrutement de 15+ ressources. 
+- Managing multidisciplinary teams of up to ~20 professionals, including recruiting 15+ resources. 
 
-- Leadership humain : développement des talents et accompagnement des gestionnaires. 
+- People leadership, developing and coaching talent. 
 
-- Référent technique assurant la rigueur, la qualité et la pertinence des livrables décisionnels.
+- Technical reviewer ensuring quality of team deliverables.
 
-***Compétences***: *Gestion de personnel | Gestion de la performance | Amélioration de processus | Négociation | Gestion du changement*
+***Skills***: *People Management | Problem Solving | Performance Management | Process Improvement | Negotiation | Change Management*
 
 {{< pagebreak >}}
 
-### Directeur Actuariat[^2] & Expert
-*[Co-operators compagnie d'assurances générales](https://www.cooperators.ca/fr-CA/) | Montréal, QC* [*Mai 2014 --- Janvier 2020*]{.dateformat}
+### Actuarial Manager[^2] & Expert
+*[Co-operators General Insurance Company](https://www.cooperators.ca/fr-CA/) | Montreal, QC* [*May 2014 --- Jan 2020*]{.dateformat}
 
-Responsable des travaux actuariels liés à un portefeuille d’assurance des entreprises représentant environ 300 M$ de primes annuelles. 
+Responsible for actuarial work related to a commercial insurance portfolio representing approximately $300M in annual premiums. 
 
-- Analyses de tarification, segmentation et indications de taux. 
+- Rate pricing, segmentation, and indication analyses. 
 
-- Conception et implantation d’algorithmes de tarification et d’outils de sélection des risques. 
+- Designing and implementing rating algorithms (Guidewire) and risk selection tools. 
 
-- Appui aux décisions stratégiques liées à la croissance et à la rentabilité du portefeuille. 
+- Supporting strategic decisions related to portfolio growth and profitability. 
 
-- Leadership d’équipe (6 à 8 professionnels) et rôle de référent technique. 
+- Team leadership (6 to 8 professionals) and technical reference role. 
 
-### Consultant en actuariat 
-*[Intact corporation financière](https://www.intactfc.com/fr) & AXA Canada | Vancouver, BC* [*Août 2009 --- Avril 2014*]{.dateformat}
+### Actuarial Consultant 
+*[Intact Financial Corporation](https://www.intactfc.com/fr) & AXA Canada | Vancouver, BC* [*Aug 2009 --- Apr 2014*]{.dateformat}
 
-Réalisation de mandats de tarification en assurance des entreprises pour le portefeuille de l’Ouest canadien, incluant les filings en automobile commerciale, les petites et moyennes entreprises, les programmes et grands comptes, les assurances spécialisées (Erreurs & Omissions, Directeurs & Officiers) et la couverture contre les tremblements de terre.
+Conducted pricing mandates in commercial insurance for Western Canada, including filings in commercial auto, small and medium-sized enterprises, programs and large accounts, specialized insurance (E&O, D&O), and earthquake coverage.
 
-## Éducation 
+## Education 
 
-**M.Sc. Microprogramme - Exploitation de données en intelligence d'affaire** <br> *HEC Montréal | Montréal, QC* [*2018 --- 2019*]{.dateformat}
+**M.Sc. Microprogram - Data Mining in Business Intelligence** <br> *HEC Montréal | Montreal, QC* [*2018 --- 2019*]{.dateformat}
 
-**B.Sc. Actuariat** <br> *Université Laval | Québec, QC* [*2004 --- 2007*]{.dateformat}
+**B.Sc. Actuarial Science** <br> *Université Laval | Quebec, QC* [*2004 --- 2007*]{.dateformat}
 
-## Titres professionnels
+## Professional Titles
 
-**Fellow, [Casualty Actuarial Society](https://www.casact.org/) (FCAS)** [*Mai 2012 --- Aujourd'hui*]{.dateformat}
+**Fellow, [Casualty Actuarial Society](https://www.casact.org/) (FCAS)** [*May 2012 --- Present*]{.dateformat}
 
-**Fellow, [Institut canadien des actuaires](https://www.cia-ica.ca/fr/) (FICA)** [*Expiré | Novembre 2012 --- Septembre 2022*]{.dateformat}
+**Fellow, [Canadian Institute of Actuaries](https://www.cia-ica.ca/en/) (FICA)** [*Expired | Nov 2012 --- Sep 2022*]{.dateformat}
 
-## Bénévolat et autres expériences
+## Volunteering and Other Experiences
 
-**Administrateur, membre du conseil d’administration** <br> *[Bibliothèque d'Outils La Remise](https://laremise.ca/) | Montréal, QC* [*Octobre 2017 --- Avril 2019*]{.dateformat}
+**Board Member, Board of Directors** <br> *[La Remise Tool Library](https://laremise.ca/) | Montreal, QC* [*Oct 2017 --- Apr 2019*]{.dateformat}
 
-La Remise est la première bibliothèque d'outils à Montréal. Aider la coopérative à consolider et à accroître son offre de services aux membres de la communauté locale.
+La Remise is the first tool library in Montreal. Helped the cooperative consolidate and grow its service offerings for local community members.
 
-**Programme Relève en gouvernance 2016-2017** <br> *[Institut sur la gouvernance (IGOPP)](https://igopp.org/jaigopp/) | Montréal, QC* [*Novembre 2016 --- Mai 2017*]{.dateformat}
+**Governance Pipeline Program 2016-2017** <br> *[Institute on Governance (IGOPP)](https://igopp.org/jaigopp/) | Montreal, QC* [*Nov 2016 --- May 2017*]{.dateformat}
 
-## À propos de moi
+## About Me
 
-**Valeurs** Curiosité | Humilité | Authenticité | Apprentissage et développement
+**Values** Curiosity | Humility | Authenticity | Learning and Development
 
-**Forces** Idéation | Adaptabilité | Stratégique | Individualisation | Apprenant *(StrengthFinder 2.0)*
+**Strengths** Ideation | Adaptability | Strategic | Individualization | Learner *(StrengthFinder 2.0)*
 
-**Langues** Français | Anglais
+**Languages** French | English
 
 ::: {.print-only}
 <br><br>
-Références disponibles sur demande
+References available upon request
 :::
 
 <br>
 
-[^1]: Comme directeur principal, j'ai supervisé des directeurs et analystes/scientifiques de données
-[^2]: Comme directeur, j'ai supervisé des actuaires juniors et séniors
+[^1]: As Senior Manager, I supervised managers and data analysts/scientists
+[^2]: As Manager, I supervised junior and senior actuaries
